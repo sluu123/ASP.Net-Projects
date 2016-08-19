@@ -1,0 +1,6 @@
+C:\Users\Symon\Desktop\IWD\INFO 3091 - ASP.NET\ImageUploader\ImageUploader\bin\ImageUploader.dll.config
+C:\Users\Symon\Desktop\IWD\INFO 3091 - ASP.NET\ImageUploader\ImageUploader\bin\ImageUploader.dll
+C:\Users\Symon\Desktop\IWD\INFO 3091 - ASP.NET\ImageUploader\ImageUploader\bin\ImageUploader.pdb
+C:\Users\Symon\Desktop\IWD\INFO 3091 - ASP.NET\ImageUploader\ImageUploader\obj\Debug\ImageUploader.csprojResolveAssemblyReference.cache
+C:\Users\Symon\Desktop\IWD\INFO 3091 - ASP.NET\ImageUploader\ImageUploader\obj\Debug\ImageUploader.dll
+C:\Users\Symon\Desktop\IWD\INFO 3091 - ASP.NET\ImageUploader\ImageUploader\obj\Debug\ImageUploader.pdb
