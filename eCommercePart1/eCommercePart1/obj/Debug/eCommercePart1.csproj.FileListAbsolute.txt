@@ -1,0 +1,6 @@
+C:\Users\Symon\Desktop\IWD\INFO 3091 - ASP.NET\eCommercePart1\eCommercePart1\bin\eCommercePart1.dll.config
+C:\Users\Symon\Desktop\IWD\INFO 3091 - ASP.NET\eCommercePart1\eCommercePart1\bin\eCommercePart1.dll
+C:\Users\Symon\Desktop\IWD\INFO 3091 - ASP.NET\eCommercePart1\eCommercePart1\bin\eCommercePart1.pdb
+C:\Users\Symon\Desktop\IWD\INFO 3091 - ASP.NET\eCommercePart1\eCommercePart1\obj\Debug\eCommercePart1.csprojResolveAssemblyReference.cache
+C:\Users\Symon\Desktop\IWD\INFO 3091 - ASP.NET\eCommercePart1\eCommercePart1\obj\Debug\eCommercePart1.dll
+C:\Users\Symon\Desktop\IWD\INFO 3091 - ASP.NET\eCommercePart1\eCommercePart1\obj\Debug\eCommercePart1.pdb

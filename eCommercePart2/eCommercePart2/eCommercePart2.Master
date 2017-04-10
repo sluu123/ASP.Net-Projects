@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="eCommercePart2.master.cs" Inherits="eCommercePart2.eCommercePart2" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>eCommercePart2</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="Scripts/jquery-1.9.0.min.js"></script>
+    <script src="Scripts/jquery.validate.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/Helpdesk.js"></script>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <nav class ="navbar navbar-inverse" role="navigation">
+        <div class="navbar-header">
+            <a class ="navbar-brand" href="#">eCommercePart2</a>
+        </div>
+        <div class ="col-md-2"></div>"
+        <ul class ="nav navbar-nav">
+            <li class="active"><a href="/Home.aspx">Home</a></li>
+            <li><a href="/Index.aspx">Catalog</a></li>
+            <li><a href="/Cart.aspx">Cart</a></li>
+            <li><a href="/CheckOut.aspx">Check-Out</a></li>
+            <li><a href="/AdminMenu.aspx">Admin Menu</a></li>
+        </ul>
+    </nav>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

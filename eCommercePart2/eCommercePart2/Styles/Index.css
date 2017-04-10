@@ -1,0 +1,18 @@
+﻿body {
+    background-color: white;
+}
+
+.MainFrame
+{
+    position:absolute;
+    height: 700px; 
+    width: 700px; 
+    border: solid 1px #002594;
+}
+.Buttons
+{
+    height: 25px;
+	font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+}

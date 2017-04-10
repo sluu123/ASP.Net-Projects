@@ -1,0 +1,31 @@
+﻿body {
+    background-color: white;
+}
+
+.Labels 
+{
+    display: inline-block;
+    width: 120px;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+    text-align: right;
+}
+.TextBoxes 
+{
+    border: solid 1px #002594;
+    height: 20px;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+    margin-left:10px;
+    text-align: left;
+}
+
+.Buttons
+{
+    height: 50px;
+    font-family: Arial, Helvetica;
+    font-size: 16pt;
+    color: #002594;
+}

@@ -1,0 +1,11 @@
+﻿body
+{
+    background-color: white;
+}
+
+.MainFrame{
+    position: absolute;
+    height: 400px;
+    width: 1000px;
+    border: solid 1px #002594;
+}

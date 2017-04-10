@@ -1,0 +1,9 @@
+﻿body {
+    background-color: white;
+}
+
+.Panels{
+    position: absolute;
+    border: solid 1px #002594;
+    background-color: white;
+}
